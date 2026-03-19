@@ -62,6 +62,7 @@ border-radius:10px;
 .caixa-texto{
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
     background-color: #4c5c4c; /* cor da caixa */
 padding: 40px; /* espaço interno */
 border-radius: 10px; /* cantos arredondados */

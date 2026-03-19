@@ -31,7 +31,7 @@ background-color:#4c5c4c !important;
 }
 
 .navbar-brand{
-color:aliceblue;
+color:rgb(82, 105, 79);
 display:flex;
 align-items:center;
 gap:20px;
@@ -62,14 +62,34 @@ border-radius:10px;
 .caixa-texto{
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
     background-color: #4c5c4c; /* cor da caixa */
 padding: 40px; /* espaço interno */
 border-radius: 10px; /* cantos arredondados */
-width: 1300px; /* largura da caixa */
+width: 600px; /* largura da caixa */
 box-shadow: 0px 4px 10px rgba(0,0,0,0.2); /* sombra */
 }
 
 hr{
 height: 4px;
 background-color: rgb(18, 19, 18);
+}
+
+.img-fluid{
+    display: block;
+margin: auto;
+margin-top: 5px;
+margin-bottom: 50px;
+width: 80%;
+height: 60%;
+border-radius: 10px;
+}
+
+.img-lil{
+margin-left: 200px;
+margin-top: 20px;
+margin-bottom: 50px;
+width: 40%;
+height: 20%;
+border-radius: 10px;
 }
