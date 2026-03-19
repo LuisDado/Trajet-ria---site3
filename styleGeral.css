@@ -1,0 +1,75 @@
+body{
+background-color: #252925;
+}
+
+
+h1{
+font-size: 80px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkolivegreen;
+}
+
+#carouselExample{
+    max-width: 900px;
+    margin-left: auto;
+}
+
+.carousel-item img{
+    height: 400px;
+    object-fit: cover;
+}
+
+p{
+font-size: xx-large;
+color: rgb(163, 177, 140);
+margin-right: auto;
+}
+
+
+.navbar-custom{
+background-color:#4c5c4c !important;
+}
+
+.navbar-brand{
+color:aliceblue;
+display:flex;
+align-items:center;
+gap:20px;
+}
+
+/* Texto do site */
+
+.texto-site h1{
+font-size:70px;
+color:#cfe0c0;
+margin-bottom:20px;
+}
+
+.texto-site p{
+font-size:29px;
+line-height:1.7;
+color:#cedac5;
+}
+
+/* Carrossel */
+
+#carouselExample img{
+height:420px;
+object-fit:cover;
+border-radius:10px;
+}
+
+.caixa-texto{
+    margin: auto;
+    margin-top: 50px;
+    background-color: #4c5c4c; /* cor da caixa */
+padding: 40px; /* espaço interno */
+border-radius: 10px; /* cantos arredondados */
+width: 1300px; /* largura da caixa */
+box-shadow: 0px 4px 10px rgba(0,0,0,0.2); /* sombra */
+}
+
+hr{
+height: 4px;
+background-color: rgb(18, 19, 18);
+}
